@@ -1,0 +1,1 @@
+INSERT INTO favorites (userid, dogid) VALUES (${userid}, ${dogid});
